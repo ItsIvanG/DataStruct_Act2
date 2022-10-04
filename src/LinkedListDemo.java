@@ -1,5 +1,6 @@
 public class LinkedListDemo {
     public static void main(String args[]){
+        //test
         LinkedList list = new LinkedList();
 
         list.insertFirst(1, 10);
